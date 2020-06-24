@@ -1,0 +1,7 @@
+{
+  "name": "girlsApp",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
